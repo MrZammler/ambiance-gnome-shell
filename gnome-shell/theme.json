@@ -1,0 +1,10 @@
+{ 
+   "shell-theme": {
+   "name": "Ubuntu Precise Pangolin", 
+   "author": "Half-Left", 
+   "version": "1.1",
+   "type":   "custom",
+   "thumbnail": "preview-Ubuntu-Precise-Pangolin.jpg", 
+   "url": "" 
+    }
+}
