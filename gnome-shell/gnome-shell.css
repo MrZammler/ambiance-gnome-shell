@@ -1257,8 +1257,9 @@ StScrollBar StButton#vhandle:hover
     border-left: 0px;
     border-right: 0px;
     border-bottom: 0px;
-    height: 36px;
+    height: 60px;
     padding-bottom: 1px;
+    transition-duration: 100;
 }
 
 .notification {
