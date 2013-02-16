@@ -20,7 +20,7 @@
 /*GNOME Shell Ubuntu Precise Pangolin theme, designed by Sean Wilson http://half-left.deviantart.com/ */
 
 stage {
-    font-family: ubuntu, cantarell, sans-serif, ubuntu;
+    font-family: verdana, ubuntu, cantarell, sans-serif, ubuntu;
 }
 
 .shell-link {
@@ -37,7 +37,7 @@ stage {
 .contact-details-status,
 .run-dialog-label,
 .run-dialog-error-label {
-    font-size: 9pt;
+    font-size: 8pt;
 }
 
 /* small bold */
@@ -48,7 +48,7 @@ stage {
 .app-well-app > .overview-icon,
 .remove-favorite > .overview-icon,
 .search-result-content > .overview-icon {
-    font-size: 9pt;
+    font-size: 8pt;
     font-weight: normal;
 }
 
@@ -121,7 +121,7 @@ StScrollBar StButton#vhandle:hover
 
 .popup-menu {
     color: #e1dcd6;
-    font-size: 9pt;
+    font-size: 8pt;
     min-width: 200px;
 }
 
@@ -332,7 +332,7 @@ StScrollBar StButton#vhandle:hover
     border-top: 0px;
     border-left: 0px;
     border-right: 0px;
-    height: 1.86em;
+    height: 1.75em;
     padding-left: 11px;
 }
 
@@ -381,7 +381,7 @@ StScrollBar StButton#vhandle:hover
 .panel-button {
     -natural-hpadding: 12px;
     -minimum-hpadding: 6px;
-    font-size: 9pt;
+    font-size: 8pt;
     font-weight: normal;
     color: #e1dcd6;
     border: 1px solid transparent;
@@ -537,7 +537,7 @@ StScrollBar StButton#vhandle:hover
 
 #dash {
     color: #fff;
-    font-size: 10pt;
+    font-size: 8pt;
     padding: 4px 0px;
     background-color: #41403b;
     border: 1px solid #333;
@@ -727,7 +727,7 @@ StScrollBar StButton#vhandle:hover
     background-gradient-end: #3c3b37;
     border: 1px solid rgba(33,33,33,0.8);
     border-radius: 4px;
-    font-size: 9pt;
+    font-size: 8pt;
     font-weight: normal;
     text-align: center;
     -x-offset: 8px;
@@ -1263,7 +1263,7 @@ StScrollBar StButton#vhandle:hover
 }
 
 .notification {
-    font-size: 9.5pt;
+    font-size: 8pt;
     background-color: #4d4c48;
     box-shadow: inset 0px 0px 1px 1px rgba(255,255,255,0.1);
     border-radius: 4px 4px 0px 0px;
@@ -1337,7 +1337,7 @@ StScrollBar StButton#vhandle:hover
 .hotplug-notification-item {
     padding: 2px 10px;
     border-radius: 5px;
-    font-size: 10.5pt;
+    font-size: 9pt;
 }
 
 .hotplug-notification-item:focus {
